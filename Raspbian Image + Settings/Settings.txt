@@ -1,0 +1,13 @@
+The IP address is hard coded and the wireless IP address is Dynamic. Last known configuration was using these settings with an Ad-hoc wi-fi broadcast from my personal laptop using the range of 192.168.16.x
+
+Ethernet IP
+192.168.56.100
+
+Wireless IP
+192.168.16.3
+
+Putty
+IP:22
+
+TightVNCServer
+IP:1
